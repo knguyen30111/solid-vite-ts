@@ -1,0 +1,27 @@
+{
+  "name": "solid-ts-vite",
+  "version": "0.0.1",
+  "description": "Solid-ts-vite",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^10.3.1",
+    "eslint": "^7.32.0",
+    "eslint-plugin-solid": "^0.1.1",
+    "postcss": "^8.3.6",
+    "prettier": "^2.3.2",
+    "tailwindcss": "^2.2.7",
+    "vite": "^2.4.4",
+    "vite-plugin-solid": "^2.0.1"
+  },
+  "dependencies": {
+    "solid-js": "^1.0.7"
+  },
+  "main": "index.js",
+  "author": ""
+}

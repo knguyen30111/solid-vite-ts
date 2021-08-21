@@ -1,0 +1,11 @@
+module.exports = {
+  "plugins": ["solid"],
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    }
+  },
+  "rules": {
+    "solid/jsx-no-undef": 2
+  }
+}
